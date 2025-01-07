@@ -1,5 +1,7 @@
 #  Fun coding challenge
 ### Alphabetical-Patterns from A to Z
+
+outputs:
 A
 ```bash
 * * * * *   
