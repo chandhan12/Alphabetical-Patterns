@@ -1,2 +1,2 @@
-###  Fun coding challenge
-# Alphabetical-Patterns from A to Z
+#  Fun coding challenge
+### Alphabetical-Patterns from A to Z
